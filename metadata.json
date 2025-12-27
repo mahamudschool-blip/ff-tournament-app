@@ -1,0 +1,9 @@
+{
+  "name": "FF Tournament Portal",
+  "description": "Complete Free Fire tournament management system with real-time updates, player registration, wallet management, and admin controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

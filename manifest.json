@@ -1,0 +1,23 @@
+
+{
+  "name": "FF Tournament Portal",
+  "short_name": "FF Portal",
+  "description": "Premium Free Fire Tournament Management System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ea580c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8002/8002150.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8002/8002150.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

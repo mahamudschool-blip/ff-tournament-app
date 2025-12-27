@@ -1,0 +1,14 @@
+
+/* FF Portal Styles */
+:root {
+  --primary: #ea580c;
+  --bg: #000;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--bg);
+  color: #fff;
+}
